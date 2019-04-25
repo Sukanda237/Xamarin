@@ -1,0 +1,12 @@
+C:\Users\Sukanda\source\repos\Coba_Xamarin\Coba_Xamarin\Coba_Xamarin\bin\Debug\netstandard2.0\Coba_Xamarin.deps.json
+C:\Users\Sukanda\source\repos\Coba_Xamarin\Coba_Xamarin\Coba_Xamarin\bin\Debug\netstandard2.0\Coba_Xamarin.dll
+C:\Users\Sukanda\source\repos\Coba_Xamarin\Coba_Xamarin\Coba_Xamarin\bin\Debug\netstandard2.0\Coba_Xamarin.pdb
+C:\Users\Sukanda\source\repos\Coba_Xamarin\Coba_Xamarin\Coba_Xamarin\obj\Debug\netstandard2.0\Coba_Xamarin.csprojAssemblyReference.cache
+C:\Users\Sukanda\source\repos\Coba_Xamarin\Coba_Xamarin\Coba_Xamarin\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Sukanda\source\repos\Coba_Xamarin\Coba_Xamarin\Coba_Xamarin\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Sukanda\source\repos\Coba_Xamarin\Coba_Xamarin\Coba_Xamarin\obj\Debug\netstandard2.0\Coba_Xamarin.csproj.CoreCompileInputs.cache
+C:\Users\Sukanda\source\repos\Coba_Xamarin\Coba_Xamarin\Coba_Xamarin\obj\Debug\netstandard2.0\Coba_Xamarin.AssemblyInfoInputs.cache
+C:\Users\Sukanda\source\repos\Coba_Xamarin\Coba_Xamarin\Coba_Xamarin\obj\Debug\netstandard2.0\Coba_Xamarin.AssemblyInfo.cs
+C:\Users\Sukanda\source\repos\Coba_Xamarin\Coba_Xamarin\Coba_Xamarin\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Sukanda\source\repos\Coba_Xamarin\Coba_Xamarin\Coba_Xamarin\obj\Debug\netstandard2.0\Coba_Xamarin.dll
+C:\Users\Sukanda\source\repos\Coba_Xamarin\Coba_Xamarin\Coba_Xamarin\obj\Debug\netstandard2.0\Coba_Xamarin.pdb
